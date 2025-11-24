@@ -1,0 +1,23 @@
+portfolio/
+├─ public/
+│  ├─ images/
+│  │  └─ profile.jpg         # Add your profile pic here
+│  └─ favicon.ico
+├─ src/
+│  ├─ components/
+│  │  ├─ Layout.js
+│  │  ├─ ProfileCard.js
+│  │  ├─ ProjectCard.js
+│  │  ├─ ExperienceCard.js
+│  │  └─ DarkModeToggle.js
+│  ├─ pages/
+│  │  ├─ _app.js
+│  │  ├─ index.js
+│  │  └─ resume.pdf          # Add your resume PDF here
+│  ├─ styles/
+│  │  ├─ globals.css
+│  │  └─ animations.css
+├─ package.json
+├─ tailwind.config.js
+├─ postcss.config.js
+└─ next.config.js
